@@ -6,7 +6,6 @@
     return result;
 }
 
-
 int a1 = 112125;
 int b1 = 22;
 int c1 = 39;
